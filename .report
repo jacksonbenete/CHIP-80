@@ -1,0 +1,5 @@
+T20240704 - setup project
+The first task is to setup the project in Go,
+specially looking forward to understand the sdl bindings.
+
+$ go get -v github.com/veandco/go-sdl2/{sdl,img,mix,ttf}
